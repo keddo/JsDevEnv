@@ -6,7 +6,13 @@
 
 - Node
 
-## Live Demo
+## Package Management
+ # Package Managers
+   - bower
+   - npm
+   - JSPM
+   - jam
+   - volo
 
 
 ## Getting Started
